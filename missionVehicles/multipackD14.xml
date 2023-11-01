@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <!-- BC: new file for packedBale at "baleLoader.balePacker.packedFilename" -->
 <vehicle type="baleLoader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/vehicle.xsd">
     <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
@@ -148,40 +148,40 @@
         </animation>
 
         <animation name="baleGrabberDropBale">
-            <part node="baleGrabNode" startTime="0.000" endTime="0.295"  startTrans="-2.044 0.147 1.788" endTrans="-2.044 0.148 1.518" />
-            <part node="baleGrabNode" startTime="0.295" endTime="0.495"  startTrans="-2.044 0.148 1.518" endTrans="-2.044 0.243 1.507" startRot="0.0 0.0 0.0" endRot="6.754 0.0 0.0" />
-            <part node="baleGrabNode" startTime="0.495" endTime="0.846"  startTrans="-2.044 0.243 1.507" endTrans="-2.044 0.35 1.163" startRot="6.754 0.0 0.0" endRot="18.17 0.0 0.0" />
-            <part node="baleGrabNode" startTime="0.846" endTime="0.996"  startTrans="-2.044 0.35 1.163" endTrans="-2.044 0.386 1.012" startRot="18.17 0.0 0.0" endRot="20.929 0.0 0.0" />
-            <part node="baleGrabNode" startTime="0.996" endTime="1.496"  startTrans="-2.044 0.386 1.012" endTrans="-2.044 0.624 0.419" startRot="20.929 0.0 0.0" endRot="20.088 0.0 0.0" />
-            <part node="baleGrabNode" startTime="1.496" endTime="1.997"  startTrans="-2.044 0.624 0.419" endTrans="-1.938 0.712 0.147" startRot="20.088 0.0 0.0" endRot="26.489 -38.406 -16.524" />
-            <part node="baleGrabNode" startTime="1.997" endTime="2.147"  startTrans="-1.938 0.712 0.147" endTrans="-1.903 0.723 0.108" startRot="26.489 -38.406 -16.524" endRot="39.916 -56.018 -34.367" />
-            <part node="baleGrabNode" startTime="2.147" endTime="2.247"  startTrans="-1.903 0.723 0.108" endTrans="-1.88 0.741 0.087" startRot="39.916 -56.018 -34.367" endRot="46.214 -62.516 -41.077" />
-            <part node="baleGrabNode" startTime="2.247" endTime="2.497"  startTrans="-1.88 0.741 0.087" endTrans="-1.625 0.796 0.028" startRot="46.214 -62.516 -41.077" endRot="62.508 -65.767 -56.126" />
-            <part node="baleGrabNode" startTime="2.497" endTime="2.748"  startTrans="-1.625 0.796 0.028" endTrans="-1.455 0.819 0.015" startRot="62.508 -65.767 -56.126" endRot="80.279 -76.036 -74.574" />
-            <part node="baleGrabNode" startTime="2.748" endTime="3.000"  startTrans="-1.455 0.819 0.015" endTrans="-1.282 0.82 -0.006" startRot="80.279 -76.036 -74.574" endRot="2.922 -90.0 0.0" />
-            <part node="baleGrabNode" startTime="3.000" endTime="3.250"  startTrans="-1.282 0.82 -0.006" endTrans="-0.957 0.837 -0.007" startRot="2.922 -90.0 0.0" endRot="2.065 -90.0 0.0" />
-            <part node="baleGrabNode" startTime="3.250" endTime="3.500"  startTrans="-0.957 0.837 -0.007" endTrans="-0.632 0.842 -0.009" startRot="2.065 -90.0 0.0" endRot="0.0 -90.0 0.0" />
-            <part node="baleGrabNode" startTime="3.500" endTime="4.000"  startTrans="-0.632 0.842 -0.009" endTrans="0.017 0.852 -0.012" />
+            <part node="baleGrabNode" startTime="0.000" endTime="0.029"  startTrans="-2.044 0.147 1.788" endTrans="-2.044 0.148 1.518" />
+            <part node="baleGrabNode" startTime="0.029" endTime="0.049"  startTrans="-2.044 0.148 1.518" endTrans="-2.044 0.243 1.507" startRot="0.0 0.0 0.0" endRot="6.754 0.0 0.0" />
+            <part node="baleGrabNode" startTime="0.049" endTime="0.084"  startTrans="-2.044 0.243 1.507" endTrans="-2.044 0.35 1.163" startRot="6.754 0.0 0.0" endRot="18.17 0.0 0.0" />
+            <part node="baleGrabNode" startTime="0.084" endTime="0.099"  startTrans="-2.044 0.35 1.163" endTrans="-2.044 0.386 1.012" startRot="18.17 0.0 0.0" endRot="20.929 0.0 0.0" />
+            <part node="baleGrabNode" startTime="0.099" endTime="0.149"  startTrans="-2.044 0.386 1.012" endTrans="-2.044 0.624 0.419" startRot="20.929 0.0 0.0" endRot="20.088 0.0 0.0" />
+            <part node="baleGrabNode" startTime="0.149" endTime="0.199"  startTrans="-2.044 0.624 0.419" endTrans="-1.938 0.712 0.147" startRot="20.088 0.0 0.0" endRot="26.489 -38.406 -16.524" />
+            <part node="baleGrabNode" startTime="0.199" endTime="0.214"  startTrans="-1.938 0.712 0.147" endTrans="-1.903 0.723 0.108" startRot="26.489 -38.406 -16.524" endRot="39.916 -56.018 -34.367" />
+            <part node="baleGrabNode" startTime="0.214" endTime="0.224"  startTrans="-1.903 0.723 0.108" endTrans="-1.88 0.741 0.087" startRot="39.916 -56.018 -34.367" endRot="46.214 -62.516 -41.077" />
+            <part node="baleGrabNode" startTime="0.224" endTime="0.249"  startTrans="-1.88 0.741 0.087" endTrans="-1.625 0.796 0.028" startRot="46.214 -62.516 -41.077" endRot="62.508 -65.767 -56.126" />
+            <part node="baleGrabNode" startTime="0.249" endTime="0.274"  startTrans="-1.625 0.796 0.028" endTrans="-1.455 0.819 0.015" startRot="62.508 -65.767 -56.126" endRot="80.279 -76.036 -74.574" />
+            <part node="baleGrabNode" startTime="0.274" endTime="0.300"  startTrans="-1.455 0.819 0.015" endTrans="-1.282 0.82 -0.006" startRot="80.279 -76.036 -74.574" endRot="2.922 -90.0 0.0" />
+            <part node="baleGrabNode" startTime="0.300" endTime="0.325"  startTrans="-1.282 0.82 -0.006" endTrans="-0.957 0.837 -0.007" startRot="2.922 -90.0 0.0" endRot="2.065 -90.0 0.0" />
+            <part node="baleGrabNode" startTime="0.325" endTime="0.350"  startTrans="-0.957 0.837 -0.007" endTrans="-0.632 0.842 -0.009" startRot="2.065 -90.0 0.0" endRot="0.0 -90.0 0.0" />
+            <part node="baleGrabNode" startTime="0.350" endTime="0.400"  startTrans="-0.632 0.842 -0.009" endTrans="0.017 0.852 -0.012" />
 
-            <part node="grabberArmSpring" startTime="0.631" endTime="0.746"  startRot="0.0 0.0 0.0" endRot="0.0 12.142 0.0" />
-            <part node="grabberArmSpring" startTime="0.746" endTime="0.896"  startRot="0.0 12.142 0.0" endRot="0.0 15.806 0.0" />
-            <part node="grabberArmSpring" startTime="0.896" endTime="1.146"  startRot="0.0 15.806 0.0" endRot="0.0 19.324 0.0" />
-            <part node="grabberArmSpring" startTime="1.597" endTime="1.647"  startRot="0.0 19.324 0.0" endRot="0.0 30.523 0.0" />
-            <part node="grabberArmSpring" startTime="1.647" endTime="1.747"  startRot="0.0 30.523 0.0" endRot="0.0 42.114 0.0" />
-            <part node="grabberArmSpring" startTime="1.747" endTime="1.897"  startRot="0.0 42.114 0.0" endRot="0.0 41.126 0.0" />
-            <part node="grabberArmSpring" startTime="1.897" endTime="1.997"  startRot="0.0 41.126 0.0" endRot="0.0 40.839 0.0" />
-            <part node="grabberArmSpring" startTime="1.997" endTime="2.097"  startRot="0.0 40.839 0.0" endRot="0.0 39.731 0.0" />
-            <part node="grabberArmSpring" startTime="2.097" endTime="2.197"  startRot="0.0 39.731 0.0" endRot="0.0 34.895 0.0" />
-            <part node="grabberArmSpring" startTime="2.197" endTime="2.497"  startRot="0.0 34.895 0.0" endRot="0.0 13.902 0.0" />
-            <part node="grabberArmSpring" startTime="2.497" endTime="2.698"  startRot="0.0 13.902 0.0" endRot="0.0 0.0 0.0" />
-            <part node="grabberArmSpringTop" startTime="1.496" endTime="1.572"  startRot="0.0 0.0 0.0" endRot="0.0 13.966 0.0" />
-            <part node="grabberArmSpringTop" startTime="1.572" endTime="1.647"  startRot="0.0 13.966 0.0" endRot="0.0 17.725 0.0" />
-            <part node="grabberArmSpringTop" startTime="1.647" endTime="1.797"  startRot="0.0 17.725 0.0" endRot="0.0 21.045 0.0" />
-            <part node="grabberArmSpringTop" startTime="1.797" endTime="1.997"  startRot="0.0 21.045 0.0" endRot="0.0 20.229 0.0" />
-            <part node="grabberArmSpringTop" startTime="1.997" endTime="2.247"  startRot="0.0 20.229 0.0" endRot="0.0 7.118 0.0" />
-            <part node="grabberArmSpringTop" startTime="2.247" endTime="2.497"  startRot="0.0 7.118 0.0" endRot="0.0 4.427 0.0" />
-            <part node="grabberArmSpringTop" startTime="2.497" endTime="3.150"  startRot="0.0 4.427 0.0" endRot="0.0 3.301 0.0" />
-            <part node="grabberArmSpringTop" startTime="3.150" endTime="3.250"  startRot="0.0 3.301 0.0" endRot="0.0 0.0 0.0" />
+            <part node="grabberArmSpring" startTime="0.063" endTime="0.074"  startRot="0.0 0.0 0.0" endRot="0.0 12.142 0.0" />
+            <part node="grabberArmSpring" startTime="0.074" endTime="0.089"  startRot="0.0 12.142 0.0" endRot="0.0 15.806 0.0" />
+            <part node="grabberArmSpring" startTime="0.089" endTime="0.114"  startRot="0.0 15.806 0.0" endRot="0.0 19.324 0.0" />
+            <part node="grabberArmSpring" startTime="0.159" endTime="0.164"  startRot="0.0 19.324 0.0" endRot="0.0 30.523 0.0" />
+            <part node="grabberArmSpring" startTime="0.164" endTime="0.174"  startRot="0.0 30.523 0.0" endRot="0.0 42.114 0.0" />
+            <part node="grabberArmSpring" startTime="0.174" endTime="0.189"  startRot="0.0 42.114 0.0" endRot="0.0 41.126 0.0" />
+            <part node="grabberArmSpring" startTime="0.189" endTime="0.199"  startRot="0.0 41.126 0.0" endRot="0.0 40.839 0.0" />
+            <part node="grabberArmSpring" startTime="0.199" endTime="0.209"  startRot="0.0 40.839 0.0" endRot="0.0 39.731 0.0" />
+            <part node="grabberArmSpring" startTime="0.209" endTime="0.219"  startRot="0.0 39.731 0.0" endRot="0.0 34.895 0.0" />
+            <part node="grabberArmSpring" startTime="0.219" endTime="0.249"  startRot="0.0 34.895 0.0" endRot="0.0 13.902 0.0" />
+            <part node="grabberArmSpring" startTime="0.249" endTime="0.269"  startRot="0.0 13.902 0.0" endRot="0.0 0.0 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.149" endTime="0.157"  startRot="0.0 0.0 0.0" endRot="0.0 13.966 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.157" endTime="0.164"  startRot="0.0 13.966 0.0" endRot="0.0 17.725 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.164" endTime="0.179"  startRot="0.0 17.725 0.0" endRot="0.0 21.045 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.179" endTime="0.199"  startRot="0.0 21.045 0.0" endRot="0.0 20.229 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.199" endTime="0.224"  startRot="0.0 20.229 0.0" endRot="0.0 7.118 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.224" endTime="0.249"  startRot="0.0 7.118 0.0" endRot="0.0 4.427 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.249" endTime="0.315"  startRot="0.0 4.427 0.0" endRot="0.0 3.301 0.0" />
+            <part node="grabberArmSpringTop" startTime="0.315" endTime="0.325"  startRot="0.0 3.301 0.0" endRot="0.0 0.0 0.0" />
 
             <sound template="BALER_GRAB_03" startTime="0.01" direction="1" volumeScale="1.7" pitchScale="0.9" />
             <sound template="BALE_SLIDE"    startTime="0.01" direction="1" volumeScale="1.7" pitchScale="0.9" fadeOut="0.1"/>
@@ -201,25 +201,25 @@
         </animation>
 
         <animation name="frontBalePusher">
-            <part node="balePusherBottom" startTime="0" endTime="1" startRot="0 0 0" endRot="62 0 0" />
+            <part node="balePusherBottom" startTime="0" endTime="0.1" startRot="0 0 0" endRot="62 0 0" />
 
-            <sound template="defaultHydraulicSound" startTime="0.01" endTime="0.99" volumeScale="0.5" pitchScale="1.3" />
-            <sound template="clackVar6"             startTime="0.99" direction="1"  volumeScale="0.6" pitchScale="1.2" />
+            <sound template="defaultHydraulicSound" startTime="0.01" endTime="0.1" volumeScale="0.5" pitchScale="1.3" />
+            <sound template="clackVar6"             startTime="0.99" direction="0.1"  volumeScale="0.6" pitchScale="1.2" />
         </animation>
         <animation name="balesToOtherRow">
-            <part node="startBalePlaceBale01" startTime="0" endTime="1" startTrans="0 0 0" endTrans="-0.92 0 0" />
+            <part node="startBalePlaceBale01" startTime="0" endTime="0.1" startTrans="0 0 0" endTrans="-0.92 0 0" />
         </animation>
 
         <animation name="rotatePlatform" resetOnStart="false">
-            <part node="balePusherBottom" startTime="0" endTime="1" startRot="0 0 0" endRot="62 0 0" />
+            <part node="balePusherBottom" startTime="0" endTime="0.2" startRot="0 0 0" endRot="62 0 0" />
 
-            <part node="startBalePlaceBale01" startTime="0.5" endTime="1" startTrans="-0.92 0 0"  endTrans="-1.4 0 0" />
-            <part node="startBalePlaceBale02" startTime="0.0" endTime="1" startTrans="0 0 0"  endTrans="-0.94 0 0" />
+            <part node="startBalePlaceBale01" startTime="0.05" endTime="0.1" startTrans="-0.92 0 0"  endTrans="-1.4 0 0" />
+            <part node="startBalePlaceBale02" startTime="0.0" endTime="0.1" startTrans="0 0 0"  endTrans="-0.94 0 0" />
 
-            <part node="balePusherBottom" startTime="1" endTime="1.5" startRot="62 0 0" endRot="0 0 0" />
+            <part node="balePusherBottom" startTime="0.1" endTime="0.2" startRot="62 0 0" endRot="0 0 0" />
 
-            <sound template="defaultHydraulicSound" startTime="0.01" endTime="1.49" volumeScale="0.5" pitchScale="1.2" />
-            <sound template="clackVar6"             startTime="1.49" direction="1"  volumeScale="0.6" pitchScale="1.2" />
+            <sound template="defaultHydraulicSound" startTime="0.01" endTime="0.1" volumeScale="0.5" pitchScale="1.2" />
+            <sound template="clackVar6"             startTime="0.1"  endTime="0.2" direction="1"  volumeScale="0.6" pitchScale="1.2" />
         </animation>
 
         <animation name="rotatePlatformBack" resetOnStart="false">
@@ -228,18 +228,18 @@
         </animation>
 
         <animation name="emptyRotate">
-            <part node="unloadingDoorTop" startTime="0" endTime="3" startRot="0 0 0" endRot="75 0 0" />
-            <part node="componentJointBackDoor" startTime="0" endTime="5" startRot="0 0 0" endRot="-100 0 0" />
-            <part componentJointIndex="1" startTime="0" endTime="5" startRotLimit="0 0 0" endRotLimit="25 0 0"/>
+            <part node="unloadingDoorTop" startTime="0" endTime="0.3" startRot="0 0 0" endRot="75 0 0" />
+            <part node="componentJointBackDoor" startTime="0" endTime="0.5" startRot="0 0 0" endRot="-100 0 0" />
+            <part componentJointIndex="1" startTime="0" endTime="0.5" startRotLimit="0 0 0" endRotLimit="25 0 0"/>
 
-            <sound template="defaultHydraulicSound" startTime="0.01" endTime="4.6"  volumeScale="1"    pitchScale="0.8" />
-            <sound template="clackVar1"             startTime="0.01" direction="1"  volumeScale="0.7"  pitchScale="1.3" />
-            <sound template="clackVar4"             startTime="3"    direction="1"  volumeScale="1"    pitchScale="0.9" />
-            <sound template="clackVar6"             startTime="4.3 " direction="1"  volumeScale="0.55" pitchScale="0.8" />
+            <sound template="defaultHydraulicSound" startTime="0.01" endTime="0.46"  volumeScale="1"    pitchScale="0.8" />
+            <sound template="clackVar1"             startTime="0.01" direction="0.1"  volumeScale="0.7"  pitchScale="1.3" />
+            <sound template="clackVar4"             startTime="0.3"  direction="0.1"  volumeScale="1"    pitchScale="0.9" />
+            <sound template="clackVar6"             startTime="0.43" direction="0.1"  volumeScale="0.55" pitchScale="0.8" />
         </animation>
 
         <animation name="moveBalePlaces">
-            <part node="balePlaces"                 startTime="0" endTime="7" startTrans="0 0 0" endTrans="0 2.1 0" />
+            <part node="balePlaces"                 startTime="0" endTime="0.7" startTrans="0 0 0" endTrans="0 2.1 0" />
         </animation>
         <animation name="moveBalePlacesToEmpty">
             <part node="balePlaces" direction="-1" startTime="0" endTime="0.01" startTrans="0 0 0" endTrans="0 2.1 0" />
@@ -249,33 +249,33 @@
         </animation>
 
         <animation name="moveBalePlacesExtrasOnce">
-            <part node="unloadingDoorBottomPusher" startTime="0" endTime="0.2" startRot="7 0 0" endRot="0 0 0" />
-            <part node="baleLift" startTime="0" endTime="1" startTrans="0 0 0"  endTrans="0 0.35 0" />
-            <part node="unloadingDoorBottomPusher" startTime="1" endTime="1.25" startRot="0 0 0" endRot="7 0 0" />
-            <part node="baleLift" startTime="1.25" endTime="2" startTrans="0 0.35 0"  endTrans="0 0 0" />
+            <part node="unloadingDoorBottomPusher" startTime="0" endTime="0.02" startRot="7 0 0" endRot="0 0 0" />
+            <part node="baleLift" startTime="0" endTime="0.1" startTrans="0 0 0"  endTrans="0 0.35 0" />
+            <part node="unloadingDoorBottomPusher" startTime="0.1" endTime="0.125" startRot="0 0 0" endRot="7 0 0" />
+            <part node="baleLift" startTime="0.125" endTime="0.2" startTrans="0 0.35 0"  endTrans="0 0 0" />
 
-            <sound template="hydraulicLayerTone" startTime="0.01" endTime="1.99" volumeScale="0.8" pitchScale="0.8" />
-            <sound template="clackVar6"          startTime="1.99" direction="1"  volumeScale="0.8" pitchScale="0.8" />
-            <sound template="clackVar4"          startTime="1.99" direction="1"  volumeScale="0.5" pitchScale="0.8" />
+            <sound template="hydraulicLayerTone" startTime="0.01" endTime="0.199" volumeScale="0.8" pitchScale="0.8" />
+            <sound template="clackVar6"          startTime="0.199" direction="1"  volumeScale="0.8" pitchScale="0.8" />
+            <sound template="clackVar4"          startTime="0.199" direction="1"  volumeScale="0.5" pitchScale="0.8" />
         </animation>
 
         <animation name="emptyHidePusher1">
         </animation>
 
         <animation name="releaseFrontplattform" resetOnStart="false">
-            <part node="balePusherTop"    startTime="0.0" endTime="1.5" startRot="0 0 0" endRot="55 0 0" />
-            <part node="balePusherTop"    startTime="1.5" endTime="3.0" startRot="55 0 0" endRot="0 0 0" />
+            <part node="balePusherTop"    startTime="0.0" endTime="0.15" startRot="0 0 0" endRot="55 0 0" />
+            <part node="balePusherTop"    startTime="0.15" endTime="0.30" startRot="55 0 0" endRot="0 0 0" />
 
-            <sound template="hydraulicLayerTone" startTime="0.01" endTime="2.99" volumeScale="0.5" pitchScale="0.8" />
-            <sound template="clackVar5"          startTime="2.95" direction="1"  volumeScale="0.6" pitchScale="1" />
+            <sound template="hydraulicLayerTone" startTime="0.01" endTime="0.299" volumeScale="0.5" pitchScale="0.8" />
+            <sound template="clackVar5"          startTime="0.295" direction="1"  volumeScale="0.6" pitchScale="1" />
         </animation>
 
         <animation name="closeGrippers">
         </animation>
 
         <animation name="moveSupport">
-            <part node="supportCol"     startTime="0.0" endTime="0.75" startTrans="-0.763 0.583 1.249" endTrans="-0.763 0.120 1.249" />
-            <part node="supportFootRot" startTime="0.0" endTime="0.75" startRot="90 0 0" endRot="0 0 0" />
+            <part node="supportCol"     startTime="0.0" endTime="0.075" startTrans="-0.763 0.583 1.249" endTrans="-0.763 0.120 1.249" />
+            <part node="supportFootRot" startTime="0.0" endTime="0.075" startRot="90 0 0" endRot="0 0 0" />
 
             <part node="supportLockBolt" startTime="0.00" endTime="0.01" visibility="true"/>
             <part node="supportLockBolt" startTime="0.01" endTime="0.74" visibility="false"/>
