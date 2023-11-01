@@ -1,5 +1,8 @@
 # FS22_BetterContracts
 
+This is a fork of [Mmtrx's Better Contracts mod](https://github.com/Mmtrx/FS22_BetterContracts) for Farming Simulator 22, with the following changes:
+- The Arcusin Multipack D14 is now 10x faster at loading bales, allowing for continuous pickup
+
 [Download latest release](https://github.com/Mmtrx/FS22_BetterContracts/releases/latest)
 
 Farming Simulator mod to enhance contracts handling
